@@ -1,6 +1,6 @@
 
 //Using libs SDL, glibc
-#include "sdl.h"	//SDL version 2.0
+#include "SDL.h"	//SDL version 2.0
 #include <stdlib.h>
 #include <stdio.h>
 
